@@ -12,7 +12,7 @@ const ListDetails = ()=>{
 let {id} = useParams()
 let value = obj[id]
 
-if(!obj) return <h1>Item not found </h1>
+if(!value) return <h1>Item not found </h1>
 
 
     return (

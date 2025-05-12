@@ -13,7 +13,7 @@ let data = [
 const ListItem = ()=>{
 
     return <div>
-<h1>List Item</h1>
+<h1>Item List</h1>
 <ul>
 {data.map((item)=>{
     return <li key={item.id} >
