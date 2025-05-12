@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 
 
 let data = [
-  { id: 1, item: "item 1", description: "Description from item 1" },
-  { id: 2, item: "item 2", description: "Description from item 2" },
-  { id: 3, item: "item 3", description: "Description from item 3" }
+  { id: 1, item: "Item 1", description: "Description from item 1" },
+  { id: 2, item: "Item 2", description: "Description from item 2" },
+  { id: 3, item: "Item 3", description: "Description from item 3" }
 ]
 
 
